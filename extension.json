@@ -4,6 +4,7 @@
   "organization": "Headbright Group",
   "description": "Escapes or unescapes a JSON string by replacing special characters forward slashes and line terminators.",
   "version": "1.0",
+  "license": "BSD-3-Clause",
   "categories": ["commands"],
 
   "main": "main.js",
