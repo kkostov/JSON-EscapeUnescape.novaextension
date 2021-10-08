@@ -1,0 +1,27 @@
+{
+  "identifier": "eu.headbright.JSONEscapeUnescape",
+  "name": "JSON Escape Unescape",
+  "organization": "Headbright Group",
+  "description": "Escapes or unescapes a JSON string by replacing special characters forward slashes and line terminators.",
+  "version": "1.0",
+  "categories": ["commands"],
+
+  "main": "main.js",
+
+  "activationEvents": ["onLanguage:javascript"],
+
+  "entitlements": {},
+
+  "commands": {
+    "editor": [
+      {
+        "title": "JSON Escape",
+        "command": "json-escape-unescape.escapeJson"
+      },
+      {
+        "title": "JSON Unescape",
+        "command": "json-escape-unescape.unescapeJson"
+      }
+    ]
+  }
+}
