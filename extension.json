@@ -6,7 +6,7 @@
   "version": "1.0",
   "license": "BSD-3-Clause",
   "categories": ["commands"],
-
+  "bugs": "https://github.com/kkostov/JSON-EscapeUnescape.novaextension/issues",
   "main": "main.js",
 
   "activationEvents": ["onLanguage:javascript"],
