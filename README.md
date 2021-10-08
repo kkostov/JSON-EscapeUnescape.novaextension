@@ -18,7 +18,9 @@ Let's get started!
 🎈 It can also be helpful to include a screenshot or GIF showing your extension in action:
 -->
 
-![](https://nova.app/images/en/dark/editor.png)
+![](https://raw.githubusercontent.com/kkostov/JSON-EscapeUnescape.novaextension/main/.github/images/howto.gif)
+
+![](https://raw.githubusercontent.com/kkostov/JSON-EscapeUnescape.novaextension/main/.github/images/intro.png)
 
 ## Usage
 
