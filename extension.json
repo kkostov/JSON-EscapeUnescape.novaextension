@@ -3,7 +3,7 @@
   "name": "JSON Escape Unescape",
   "organization": "Headbright Group",
   "description": "Escapes or unescapes a JSON string by replacing special characters forward slashes and line terminators.",
-  "version": "1.0",
+  "version": "1.1",
   "license": "BSD-3-Clause",
   "categories": ["commands"],
   "bugs": "https://github.com/kkostov/JSON-EscapeUnescape.novaextension/issues",
