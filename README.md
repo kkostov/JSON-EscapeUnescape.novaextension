@@ -42,3 +42,7 @@ Escaping JSON converts a json object into a string by replacing all occurrences 
 ## JSON Unescape
 
 Unescape converts a string value into a JSON object by attempting to parse it.
+
+# Installation
+
+This is an extension for the [Nova editor by Panic](https://www.nova.app). It's available from Extensions > Extension Library or directly from [here](https://extensions.panic.com/extensions/eu.headbright/eu.headbright.JSONEscapeUnescape/).
